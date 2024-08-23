@@ -1,0 +1,14 @@
+/* Styles for small devices (e.g., smartphones) */
+@media (max-width: 576px) {
+  /* CSS rules for small screens */
+}
+
+/* Styles for medium devices (e.g., tablets) */
+@media (min-width: 576px) and (max-width: 992px) {
+  /* CSS rules for medium screens */
+}
+
+/* Styles for large devices (e.g., desktops) */
+@media (min-width: 992px) {
+  /* CSS rules for large screens */
+}
